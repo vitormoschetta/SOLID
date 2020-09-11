@@ -29,3 +29,6 @@ Faça interfaces específicas para classes diferentes.
 ### DIP - The Dependency Inversion Principle / Principio da Inversão de Dependência.
 Dependa de uma abstração e não de uma implementação.
 Nunca dependa dos detalhes de uma implementação de outro módulo. Crie uma abstração entre eles. No caso, a interface. 
+
+
+[Artigo de referência](https://github.com/mviegas/SOLID)
