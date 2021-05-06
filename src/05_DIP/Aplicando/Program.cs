@@ -25,6 +25,9 @@ namespace Aplicando
 
             handler.Save(product);        
             
+
+            // Como funciona a injeção de dependência para Controllers? Como não instanciamos um Controller, a injeção de dependência 
+            // é configurada pelo próprio framework. No caso do Dot NET Core, na classe Startup isso é configurado.
         }
     }
 }
