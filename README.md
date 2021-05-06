@@ -40,6 +40,9 @@ uma alteração for feita no MethodB da interface a classe X será impactada com
 Boas implementações de software tentam criar interfaces / abstrações estáveis, ou seja, que não sofrem mudança. 
 Logo, arquiteturas de software estáveis são aquelas que evitam depender de implementações concretas instáveis. 
 
+No DIP, ao invés de uma classe X instanciar o uma outra classe que precisa, ela a recebe no construtor. Logo, a classe X não é responsável
+por instanciar o que precisa, mas quem vai chamar a classe X deve informar uma instancia que precisa.
+
 <br>
 <br>
 
