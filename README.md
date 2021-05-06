@@ -21,7 +21,7 @@ E não somente as interfaces e classes abstratas precisam ser protegidas, mas to
 <br>
 
 
-### LSP - The Liskov Substitution Priciple / Principio da Substituição de Liskov
+### LSP - The Liskov Substitution Principle / Principio da Substituição de Liskov
 As classes derivadas devem ser capazes de substituir suas classes bases. 
 
 <br>
